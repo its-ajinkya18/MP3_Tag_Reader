@@ -174,5 +174,5 @@ https://www.linkedin.com/in/ajinkya-kadam-54a51b283
 
 If you found this project useful:
 
-⭐ Star this repository on GitHub
+⭐ Star this repository on GitHub\
 📢 Share it with others interested in **system programming and C development**
