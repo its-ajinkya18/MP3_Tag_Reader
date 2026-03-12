@@ -107,10 +107,10 @@ gcc *.c -o mp3_tag_editor
 MP3_Tag_Reader_Editor
 │
 ├── main.c        # Program entry point
-├── mp3.h         # Structure definitions and declarations
+├── view.h        # Structure definitions and declarations for view
+├── edit.h        # Structure definitions and declarations for edit
 ├── view.c        # Metadata viewing functionality
 ├── edit.c        # Metadata editing functionality
-├── utils.c       # Helper functions
 └── README.md     # Project documentation
 ```
 
